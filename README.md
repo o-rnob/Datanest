@@ -1,4 +1,4 @@
-# Bangladesh Listed Banks — Financial Dataset (2015–2025)
+# Ow1nomic's DataNest- 11 Bangladesh Listed Banks (August/26) — Financial Dataset (2015–2025)
 
 Annual financial and performance data for **11 publicly listed commercial banks in Bangladesh**, covering fiscal years **2015 through 2025**. The dataset combines core balance sheet and income statement figures, per-share and profitability ratios, asset quality and capital metrics, plus a set of derived/statistical indicators (growth rates, drawdowns, risk-adjusted return ratios) calculated per bank.
 
