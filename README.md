@@ -1,5 +1,23 @@
 # Ow1nomic's DataNest- 11 Bangladesh Listed Banks (August/26) — Financial Dataset (2015–2025)
 
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣄⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀               Contact: kmmiadhassanornob@gmail.com
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⣶⣾⣿⣿⣿⣿⣿⣶⡆⠀⠀⠀⠀⠀⠀               ------------------- 
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⡏⢤⡎⣿⣿⢡⣶⢹⣧⠀⠀⠀⠀⠀⠀               Banks: 11 
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣶⣶⣇⣸⣷⣶⣾⣿⠀⠀⠀⠀⠀⠀               Last Date Updated: August 3rd,2026
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢨⣿⣿⣿⢟⣿⣿⣿⣿⣿⣧⡀⠀⠀⠀⠀               Data Type: MD , CSV , ODE
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⡏⣿⣿⣿⣿⣿⣿⣿⣿⡄⠀⠀⠀               Revision No.: 29
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⣿⣜⠿⣿⣿⣿⣿⣿⣿⣿⡄⠀⠀               Total Packages: 16 
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⣷⣿⡿⣷⣮⣙⠿⣿⣿⣿⣿⣿⡄⠀               Open source : Yes 
+⠀⠀⠠⢄⣀⡀⠀⠀⠀⠀⠀⠈⠫⡯⢿⣿⣿⣿⣶⣯⣿⣻⣿⣿⠀               Copyright: CC0 
+⠀⠀⠤⢆⠆⠈⠉⠳⠤⣄⡀⠀⠀⠀⠙⢻⣿⣿⠿⠿⠿⢻⣿⠙⠇               
+⠠⠤⠀⣉⣁⣢⣄⣀⣀⣤⣿⠷⠦⠤⣠⡶⠿⣟⠀⠀⠀⠀⠻⡀⠀               
+⠀⠀⠔⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠃⠃⠉⠉⠛⠛⠿⢷⡶⠀⠀               
+   ___         _     _  _        _      
+  / _ \__ __ _/ |___| \| |___ __| |_    G
+ | (_) \ V  V / |___| .` / -_|_-<  _|   
+  \___/ \_/\_/|_|   |_|\_\___/__/\__|
+                                                                
+                                                                
 Annual financial and performance data for **11 publicly listed commercial banks in Bangladesh**, covering fiscal years **2015 through 2025**. The dataset combines core balance sheet and income statement figures, per-share and profitability ratios, asset quality and capital metrics, plus a set of derived/statistical indicators (growth rates, drawdowns, risk-adjusted return ratios) calculated per bank.
 
 ## Banks covered
