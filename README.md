@@ -1,4 +1,4 @@
-# Bangladesh Bank Financial Dataset (2015–2025) — 11 DSE-Listed Banks | Annual Reports Data
+# Bangladesh Bank Financial Dataset by Ow1nomics (2015–2025) — 11 DSE-Listed Banks | Annual Reports Data
 
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Banks](https://img.shields.io/badge/Banks-11-blue)](#banks-covered)
